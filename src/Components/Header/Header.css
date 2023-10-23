@@ -1,0 +1,34 @@
+.head
+{
+    max-width: 1940px;
+    height: 100px;
+    background-color: #22C55E;
+}
+.head-content
+{
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-right: 200px;
+    color: white;
+}
+.head-content button
+{
+    width: 168px;
+    height: 39px;
+    background-color: #16A34A;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.head-content button:hover
+{
+    filter: brightness(0.9);
+}
+.head-content h1
+{
+    font-size: 32px;
+    font-weight: bold;
+}
